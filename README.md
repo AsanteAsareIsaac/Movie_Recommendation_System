@@ -8,7 +8,7 @@ This repository contains a simple movie recommendation system built using collab
 
 This project demonstrates a collaborative filtering movie recommendation system. Given a movie that a user likes, the system recommends other movies that are similar based on the collective ratings of users. The core idea is to represent movies in a user-item matrix and find movies that are 'nearest neighbors' to a given movie in that space.
 
-##Data
+## Data
 
 The ratings.csv file contains the dataset used for this recommendation system. It includes:
 
